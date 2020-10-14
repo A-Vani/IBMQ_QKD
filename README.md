@@ -1,5 +1,5 @@
-# IBMQ_QKD
-This repository contains the code that can be used to simulate the BB84 and E91 protocol using IBMQ quasm simulator as well the actual hardware. 
+# IBMQ QKD: BB84 and E91
+This repository contains the code that can be used to simulate the **BB84** and **E91** protocol using IBMQ quasm simulator as well the actual hardware. 
 The BB84 protocol can be simulated with and without repeaters too.
 
 The folder contains three sub folders: *BB84*, *E91* and *BB84_with_repeaters*.
