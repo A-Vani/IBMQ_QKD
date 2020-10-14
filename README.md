@@ -7,5 +7,4 @@ The folder contains three sub folders: BB84, E91 and BB84_with_repeaters.
 * The focus of the E91 folder is to demonsrtate the working of the protocol using the simulator and its workings.
 * The focus of the BB84_with_repeater folder is to show how the BB84 protocol reacts to repeaters and how error mitigation plays an important role. 
 (The aim was to simulate the propogation of errors while transmitting the qubit from Alice to Bob via repeaters)
-
 *The folder also contains our results and presentation.*
