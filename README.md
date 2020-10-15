@@ -10,3 +10,5 @@ The folder contains three sub folders: *BB84*, *E91* and *BB84_with_repeaters*.
 *The folder also contains our results and presentation.*
 
 *Note : Inorder to run the code on the actual hardware, it has to be optimised and one can create a list of circuits so as to run all of them in one job.*
+
+The references are mentioned in the pdf in the *BB84_with_repeater* folder.
