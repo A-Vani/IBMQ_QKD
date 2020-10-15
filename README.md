@@ -9,4 +9,4 @@ The folder contains three sub folders: *BB84*, *E91* and *BB84_with_repeaters*.
 (The aim was to simulate the propogation of errors while transmitting the qubit from Alice to Bob via repeaters)
 *The folder also contains our results and presentation.*
 
-* Note : Inorder to run the code on the actual hardware, it has to be optimised and one can create a list of circuits so as to run all of them in one job.*
+*Note : Inorder to run the code on the actual hardware, it has to be optimised and one can create a list of circuits so as to run all of them in one job.*
